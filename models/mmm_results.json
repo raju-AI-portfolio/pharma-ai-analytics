@@ -1,0 +1,81 @@
+{
+  "r_squared": 0.6466,
+  "adj_r_squared": 0.5722,
+  "attribution_pct": {
+    "Rep visits": 26.3,
+    "Email": -8.6,
+    "Webinar": 48.6,
+    "CLM": 33.8
+  },
+  "roi_per_channel": {
+    "Rep visits": 18.06,
+    "Email": -32.91,
+    "Webinar": 119.59,
+    "CLM": 165.94
+  },
+  "coefficients": {
+    "rep_adstock": 7777.26,
+    "email_adstock": -2787.21,
+    "webinar_adstock": 15444.0,
+    "clm_adstock": 10493.78
+  },
+  "p_values": {
+    "rep_adstock": 0.5147,
+    "email_adstock": 0.6838,
+    "webinar_adstock": 0.0194,
+    "clm_adstock": 0.1307
+  },
+  "monthly_revenue": [
+    31769.0,
+    40664.0,
+    42776.0,
+    44573.0,
+    45765.0,
+    42931.0,
+    43695.0,
+    42732.0,
+    40935.0,
+    40340.0,
+    39020.0,
+    39817.0,
+    41073.0,
+    40492.0,
+    42817.0,
+    44180.0,
+    44134.0,
+    45352.0,
+    42015.0,
+    43244.0,
+    40426.0,
+    39713.0,
+    39954.0,
+    40076.0
+  ],
+  "months": [
+    "2024-05-01",
+    "2024-06-01",
+    "2024-07-01",
+    "2024-08-01",
+    "2024-09-01",
+    "2024-10-01",
+    "2024-11-01",
+    "2024-12-01",
+    "2025-01-01",
+    "2025-02-01",
+    "2025-03-01",
+    "2025-04-01",
+    "2025-05-01",
+    "2025-06-01",
+    "2025-07-01",
+    "2025-08-01",
+    "2025-09-01",
+    "2025-10-01",
+    "2025-11-01",
+    "2025-12-01",
+    "2026-01-01",
+    "2026-02-01",
+    "2026-03-01",
+    "2026-04-01"
+  ],
+  "recommendation": "Reallocate 10-15% of 'Email' budget (ROI -32.9x) to 'CLM' (ROI 165.9x) to improve blended ROI. Rep visits remain anchor investment. Email shows highest marginal ROI due to low cost per touch."
+}
